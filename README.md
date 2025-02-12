@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Uh oh...](https://www.example.com/image.png"onload="alert('XSS'))
+![Uh oh...](https://www.example.com/image.png"onload="console.log('XSS'))
