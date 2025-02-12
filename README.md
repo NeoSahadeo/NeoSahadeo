@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <a href="javascript:alert('XSS')">Click Me</a>
-[Click Me](javascript:alert('XSS'))
+[Click Me](https://javascript:alert('XSS'))
