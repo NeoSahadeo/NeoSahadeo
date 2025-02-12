@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="" onerror="alert('XSS') alt="Uh oh...">
+<img src="www.google.com" onerror="alert('XSS') alt="Uh oh..."></img>
