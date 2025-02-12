@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Uh oh...](javascript:alert("Hello"))
+<video width="320" height="240" controls>
+  <source src="video.mov" type="video/mp4">
+</video>
+
