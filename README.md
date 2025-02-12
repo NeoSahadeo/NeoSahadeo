@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<video width="320" height="240" controls>
-  <source src="https://youtu.be/abIlGCx_Yq8" type="video/mp4">
-</video>
-
+[![](https://markdown-videos-api.jorgenkh.no/youtube/dQw4w9WgXcQ)](https://youtu.be/dQw4w9WgXcQ)
