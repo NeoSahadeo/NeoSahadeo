@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <p>
+  <p onload="alert('hello!')">
     Hello world
   </p>
 </div>
