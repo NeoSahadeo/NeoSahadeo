@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Uh oh...](javascript:alert("Hello");https://www.example.com/image.png"onload="console.log('XSS'))
+![Uh oh...](javascript:alert("Hello"))
