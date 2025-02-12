@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="javascript:alert('XSS')">Click Me</a>
+<button href="javascript:alert('XSS')">Click Me</button>
 [Click Me](javascript:alert('XSS'))
