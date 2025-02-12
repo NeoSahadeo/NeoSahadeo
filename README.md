@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<button href="javascript:alert('XSS')">Click Me</button>
-[Click Me](javascript:alert('XSS'))
+<img src="" onerror="alert('XSS') alt="Uh oh...">
