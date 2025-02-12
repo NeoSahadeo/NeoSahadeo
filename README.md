@@ -16,7 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <p onclick="alert('hello!')">
+
+    
     Hello world
-  </p>
+  
+    
+    <span onclick="alert('hello!')">
+  <span onclick="alert('hello!')">
+  <span onclick="alert('hello!')">
+    Hello world
+  </span>
 </div>
