@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 <video width="320" height="240" controls>
-  <source src="video.mov" type="video/mp4">
+  <source src="https://youtu.be/abIlGCx_Yq8" type="video/mp4">
 </video>
 
