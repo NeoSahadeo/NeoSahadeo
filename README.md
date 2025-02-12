@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <p onload="alert('hello!')">
+  <p onclick="alert('hello!')">
     Hello world
   </p>
 </div>
