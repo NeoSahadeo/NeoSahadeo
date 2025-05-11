@@ -1,1 +1,1 @@
-<iframe width="1403" height="662" src="https://www.youtube.com/embed/oiQQK-21GtY" title="Psycho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1403" height="662" src="youtube.com/embed/oiQQK-21GtY" title="Psycho" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
