@@ -1,3 +1,3 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW13M3RwdG5hcGRrZng0a2ZnZDE2Ym8yZXBmaGw4Z25zbmU4YWZybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif">
 
-<img width="30000" height="30000" src="https://www.svgrepo.com/show/530185/penguin.svg">
+<img width="300000000" height="300000000" src="https://www.svgrepo.com/show/530185/penguin.svg">
