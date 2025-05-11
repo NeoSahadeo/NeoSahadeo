@@ -1,1 +1,1 @@
-![Uh oh...](https://www.example.com/image.png"onload="alert('hello'))
+[![Uh oh...](https://www.example.com/image.png"onload="alert('hello'))](#)
