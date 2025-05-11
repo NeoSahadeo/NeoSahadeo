@@ -1,1 +1,1 @@
-![wireshark video](https://gitlab.com/NeoSahadeo/networkprac/-/raw/main/wireshark.mov)
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW13M3RwdG5hcGRrZng0a2ZnZDE2Ym8yZXBmaGw4Z25zbmU4YWZybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif">
